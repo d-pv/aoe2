@@ -1,0 +1,17 @@
+La primera línea del archivo ver.txt tiene que tener el número de versión, que es una fecha.
+Hay que escribirla siempre yyyy-mm-dd
+
+En caso de lanzar varias versiones el mismo día, se puede añadir un campo más.
+Ejemplos de números de versión:
+
+2020-05-22
+2020-05-22-1
+2020-05-22-2
+...
+2020-05-22-99
+
+(el máximo número de versiones en un día es 100)
+
+
+Después del número de versión, vendrá la descripción de los cambios.
+El fichero del ejecutable se tiene que llamar siempre "the conquerors mod selector.exe"
